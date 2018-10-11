@@ -267,46 +267,48 @@ nav {
 
   .read-more {
     text-transform: lowercase;
-    font-size: 11px;
+    font-size: 0.9em;
   }
-  .header {
-    .categories {
-      float:left;
+  header {
+    font-size:9pt;
+    ul.categories {
       text-align: left;
-      font-size:7pt;
-      ul{
-        margin: 0px;
-        padding: 0px;
-        li{
-          a{
-            text-decoration: none;
-            background-color: #aaa;
-            border-radius:4px;
-            margin:2px;
-            padding:2px;
-          }
+      margin: 0px;
+      padding: 0px;
+      list-style: none;
+      li{
+        float:left;
+        background-color: #9D9;
+        border-radius:2px;
+        margin:0px 2px;
+        padding:2px 4px;
+        a{
+          text-decoration: none;
+          color:#fff;
         }
       }
     }
-    .tags {
-      float:right;
-      text-align: right;
-      font-size:8pt;
-      ul{
-        margin: 0px;
-        padding: 0px;
-        li{
-          a{
-            text-decoration: none;
-            background-color: #aaa;
-            border-radius:4px;
-            margin:2px;
-            padding:2px;
-          }
+    ul.tags {
+      text-align: left;
+      margin: 0px;
+      padding: 0px;
+        list-style-type: none;
+      li{
+        float:left;
+        background-color: #99D;
+        border-radius:2px;
+        margin:0px 2px;
+        padding:2px 1px;
+        a{
+          text-decoration: none;
+          color:#fff;
         }
       }
+    }
+  }
 
-    }
+  hr{
+    border:1px dotted #038; 
   }
 }
 
@@ -322,6 +324,29 @@ footer {
   text-align: center;
 }
 
+blockquote {
+  background-color:#efefef;
+  border-radius:0.4em;
+  border:1px solid #ddd;
+  font-size: 10pt;
+  strong {
+    text-transform:uppercase;
+    border-bottom:1px dotted #ddd;
+  }
+}
+
+table{
+  border:1px dotted #dedede;
+  padding:2px;
+  table-layout: auto;
+  td {
+    padding:0.1em;
+    min-width: 5em;
+  }
+  thead{
+    font-weight:bold;
+  }
+}
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";

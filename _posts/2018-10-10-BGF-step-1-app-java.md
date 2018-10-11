@@ -39,6 +39,7 @@ All will start with the `App.java` file. This main class will extends the `java.
 A good class must contains some attributes, and here we will have a bunch of those old pals :
 
 > ***INFO***
+>
 > *the App class will implements some commons java interface, `Runnable` to assume a Thread behavior, and `KeyListener` to capture and process key events.*
 
 ```java
@@ -99,6 +100,7 @@ A good constructor with some parameters: the first step in the constructor is to
 ```
 
 > ***INFO***
+>
 > *The default `buffer` is a RBG + alpha one to manage transparency. 
 > The `Graphics2D` API is initialized for the all game graphic operation. 
 > The `viewport` is a bounding box, it will be used for collision and constrain object to stay in the display area.*
@@ -216,7 +218,7 @@ This will be parsed by the following code:
             break;
           case "d":
             DEBUG = Integer.parseInt(values[1]);
-            break; 
+            break;
           case "f":
             FPS = Integer.parseInt(values[1]);
             break;
@@ -225,14 +227,16 @@ This will be parsed by the following code:
     }
   }
 ```
+
 The available parameters are :
-| Param |      | Description                                  |
-|:-----:|:----:|:---------------------------------------------|
-| w     | 320  | set the window width                         |
-| h     | 200  | set the window height                        |
-| s     | 2    | define the pixel scaling to size the screen  |
-| d     | 0    | set the debug display level from 0=off to 5  |
-| f     | 60   | set the Frame Per Second rate                |
+
+| Param      | Default | Description                                  |
+|:----------:|:-------:|:---------------------------------------------|
+| w (width)  | 320     | set the window width                         |
+| h (height) | 200     | set the window height                        |
+| s (scale)  | 2       | define the pixel scaling to size the screen  |
+| d (debug)  | 0       | set the debug display level from 0=off to 5  |
+| f (fps)    | 60      | set the Frame Per Second rate                |
 
 > ***INFO***
 > *You will be able to add any kind of parameters for your own usage, adding new cases to the switch.*
@@ -242,7 +246,7 @@ And the entry point of the story, the main method, where we create the App, crea
 ```java
   public static main(String[] args){
     
-    // Create a instance of our app 
+    // Create a instance of our app
     App app = new App(args);
     
     // Get the required diemnsion of the window
@@ -277,6 +281,7 @@ $> java -jar App-0.0.1-SNAPSHOT.jar
 You would obtain a single window named "myGame", and that all.
 
 > ***INFO***
+>
 > *The project on [github.com](https://github.com/snapgames/basic-game-framework "open the git project on github.com") is a maven project, so you will be able to start the project with the following command line:
 > ```bash
 > $> mvn clean install exec:java
