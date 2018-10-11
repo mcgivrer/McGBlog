@@ -1,6 +1,7 @@
 ---
 layout: post
 title: BGF Step 1 - App.java
+author: McGivrer
 categories: [java, gamedev]
 tags: [gameloop, core, framework, basic]
 excerpt_separator: <!--more-->
