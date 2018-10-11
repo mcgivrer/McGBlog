@@ -2,7 +2,7 @@
 layout: post
 title: BGF Step 1 - App.java
 categories: [java, gamedev]
-tags: [gameloop,core,framework,basic]
+tags: [gameloop, core, framework, basic]
 excerpt_separator: <!--more-->
 ---
 
