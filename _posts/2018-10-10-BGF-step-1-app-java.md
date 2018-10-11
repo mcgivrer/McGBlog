@@ -1,11 +1,13 @@
 ---
 layout: post
 title: BGF (Step 1) - App.java
+categories: [java, gamedev]
+tags: [gameloop,core,framework,basic]
+
+This post is all about starting a new java application, for a Desktop usage, and in the context of a game development.
 ---
 
 # BGF step 1: App.java
-
-This post is all about starting a new java application, for a Desktop usage, and in the context of a game development.
 
 We are going to start by design a main class for our game, then add some useful classes to manage game objects, some service like collision, and others things like states and so on...
 
