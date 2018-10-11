@@ -8,8 +8,9 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Here is a little part of me and my hobby : video games and their development. but not AAA games, Indies ones !
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[frederic.delorme@snapgames.fr](frederic.delorme@snapgames.fr)
