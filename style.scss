@@ -271,6 +271,7 @@ nav {
   }
   .header {
     .categories {
+      float:left;
       text-align: left;
       font-size:7pt;
       ul{
@@ -278,12 +279,17 @@ nav {
         padding: 0px;
         li{
           a{
-
+            text-decoration: none;
+            background-color: #aaa;
+            border-radius:4px;
+            margin:2px;
+            padding:2px;
           }
         }
       }
     }
     .tags {
+      float:right;
       text-align: right;
       font-size:8pt;
       ul{
@@ -291,10 +297,15 @@ nav {
         padding: 0px;
         li{
           a{
-
+            text-decoration: none;
+            background-color: #aaa;
+            border-radius:4px;
+            margin:2px;
+            padding:2px;
           }
         }
       }
+
     }
   }
 }
