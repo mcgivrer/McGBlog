@@ -19,8 +19,8 @@ It's a beautiful book (Eh, i've created it :) with the five first chapters, corr
 The next step consists in performing a global review of the five first chapter, and continue to write other chapters with corresponding github repositories.
 14 chapters are in the final target and would be written before end of 2019 (I hope :)
 
-[McG](mailto:contact@snapgames.fr?subject=BGF book and courses"contact the author !")
+[McG](mailto:contact@snapgames.fr?subject=Game%20Develoment%20Platform%20and%20book "contact the author !")
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjM5Mzc5OSwxNjgzMzY1MzA5XX0=
+eyJoaXN0b3J5IjpbMTY1NzIxMjA0NCwxNjgzMzY1MzA5XX0=
 -->
