@@ -8,9 +8,11 @@ excerpt_separator: <!--more-->
 ---
 # The Neaw Deal
 
-I've received my first draft of my first book I am working on for the last half and a year
+I've received my first draft of my first book I am working on for the last half and a year: "**Developper** mon premier **jeu de plateforme** avec **Java**" !
+
+It's a beautiful book (Eh, i've created it :) with the five first chapters, corresponding to the first 5 cours about how to create a platform gam with java (sik)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3OTM0Mzg1NF19
+eyJoaXN0b3J5IjpbMTE5NDkzMDhdfQ==
 -->
