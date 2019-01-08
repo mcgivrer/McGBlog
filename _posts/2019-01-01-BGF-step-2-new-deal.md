@@ -15,6 +15,7 @@ I've received the first draft of my first book I am working on for the last half
 Yes, the book is a french language one's, because it is my first one. I hope I will be able to write a second one later next year (2020) with more in depth things about game and their develoment.
 
 ![the front temporary cover design for the book Développer mon premier jeu de plateforme avec Java](https://lh3.googleusercontent.com/hy93r4z2dkj9lxeRRs98RJ9oJd3ZLMPymcKQ3tDTUwjWbXLHhSmiK33w81JPslarVzZ7vReHqoS-3w=s550 "Développer mon premier jeu de plateforme avec Java")
+
 *~~ My First Book ~~*
 
 > The current cover image will change because of discussion with originator of used pixel graphics to illustrate my own "in-cours" game.
@@ -22,6 +23,7 @@ Yes, the book is a french language one's, because it is my first one. I hope I w
 It's a beautiful book (Eh, i've created it :) with the 5 first chapters, corresponding to the 5 first courses about **how to create a platform game with Java** (sic) on the [Google Class Room GDJ100 course](https://classroom.google.com/c/NzI2ODQ3NjU2MFpa)  I am currently creating.
 
 ![enter image description here](https://lh3.googleusercontent.com/8Sre6K5o5k6pd4hZj8Q55pZfjk0pnI1vvhLAnew4ib8al2W-YxjoAbirGZfPylG9B24N348ScJDWUg=s550 "GDJ100 on Google Class Room service")
+
 ~~ Some Game Development Java oriented courses ~~
 
 The next step consists in performing a global review of the five first chapter, and continue to write other chapters with corresponding github repositories.
