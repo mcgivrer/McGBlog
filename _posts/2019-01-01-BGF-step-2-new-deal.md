@@ -19,13 +19,15 @@ Yes, the book is a french language one's, because it is my first one. I hope I w
 
 It's a beautiful book (Eh, i've created it :) with the 5 first chapters, corresponding to the 5 first courses about **how to create a platform game with Java** (sic) on the [Google Class Room GDJ100 course](https://classroom.google.com/c/NzI2ODQ3NjU2MFpa)  I am currently creating.
 
-![enter image description here](https://drive.google.com/file/d/1bESZY3_rQ-54avq2rPqh89AtMbkFkzgs/view?usp=drivesdk "GDJ100 screen capture")The next step consists in performing a global review of the five first chapter, and continue to write other chapters with corresponding github repositories.
+
+
+The next step consists in performing a global review of the five first chapter, and continue to write other chapters with corresponding github repositories.
 14 chapters are in the final target and would be written before end of 2019 (I hope :)
 
 [McG](mailto:contact@snapgames.fr?subject=Game%20Develoment%20Platform%20and%20the%20corresponding%20book "contact the author !")
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODQyOTQzNiwtMTcyMDA3ODk1NCwxNj
-A3ODI2NDE4LDE2ODMzNjUzMDldfQ==
+eyJoaXN0b3J5IjpbNzI3MDA2ODI4LC03OTg0Mjk0MzYsLTE3Mj
+AwNzg5NTQsMTYwNzgyNjQxOCwxNjgzMzY1MzA5XX0=
 -->
