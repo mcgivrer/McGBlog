@@ -12,9 +12,9 @@ Yes, the book is a french language one's, because it is my first one. I hope I w
 
 <!--more-->
 
-# The Neaw Deal
-
 ----
+
+# The Neaw Deal
 
 <div class="imgcontainer">
     <img alt="center" 

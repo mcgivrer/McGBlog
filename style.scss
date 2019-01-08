@@ -176,7 +176,7 @@ img {
   }
 
   img {
-    border-radius: 5px;
+    border-radius: 4px;
   }
 }
 
@@ -262,9 +262,8 @@ nav {
     font-style: italic;
   }
   hr{
-    border:0px;
-    height:24px;
-    color:transparent;
+    border:2px;
+    color:#555;
   }
 	img[alt^=header]{
     float:left;
@@ -296,6 +295,7 @@ nav {
       border-radius:4px;
       box-shadow: 4px 4px 8px #999;
       padding:2px;
+      margin: 4px;
     img{
       position:sticky;
       display: block;
