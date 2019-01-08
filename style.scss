@@ -269,6 +269,12 @@ nav {
     height:auto;
     max-height:550px;
   }
+	img[alt*=header]{
+    float:left;
+    margin-right:2em;
+    width:auto;
+    height:auto;
+  }
   img[alt*=left]{
     float:left;
     margin-right:2em;
