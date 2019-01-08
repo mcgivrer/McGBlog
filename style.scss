@@ -257,7 +257,8 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
+    background-color:none;
+    font-size: 0.9em;
     font-style: italic;
   }
 
@@ -322,17 +323,6 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
-}
-
-blockquote {
-  background-color:#efefef;
-  border-radius:0.4em;
-  border:1px solid #ddd;
-  font-size: 10pt;
-  strong {
-    text-transform:uppercase;
-    border-bottom:1px dotted #ddd;
-  }
 }
 
 table{
