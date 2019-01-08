@@ -8,7 +8,8 @@ excerpt_separator: <!--more-->
 ---
 # The Neaw Deal
 
-I've received my first draft of my first book I am working on for the last half and a year: "**Developper** mon premier **jeu de plateforme** avec **Java**" !
+I've received the first draft of my first book I am working on for the last half and a year: "**Developper** mon premier **jeu de plateforme** avec **Java**" !
+Yes, the book is a french language one's, because it is my first one. I hope I will be able to write a second one later next year (2020) with more in depth things abou
 ![the front temporary cover design for the book Développer mon premier jeu de plateforme avec Java](https://lh3.googleusercontent.com/hy93r4z2dkj9lxeRRs98RJ9oJd3ZLMPymcKQ3tDTUwjWbXLHhSmiK33w81JPslarVzZ7vReHqoS-3w=s550 "Développer mon premier jeu de plateforme avec Java")
 *~~ My First Book ~~*
 
@@ -19,8 +20,9 @@ It's a beautiful book (Eh, i've created it :) with the five first chapters, corr
 The next step consists in performing a global review of the five first chapter, and continue to write other chapters with corresponding github repositories.
 14 chapters are in the final target and would be written before end of 2019 (I hope :)
 
-[McG](mailto:contact@snapgames.fr?subject=Game%20Develoment%20Platform%20and%20book "contact the author !")
+[McG](mailto:contact@snapgames.fr?subject=Game%20Develoment%20Platform%20and%20the%20corresponding%20book "contact the author !")
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzIxMjA0NCwxNjgzMzY1MzA5XX0=
+eyJoaXN0b3J5IjpbMjAzNzIwNTQzNCwxNjgzMzY1MzA5XX0=
 -->
