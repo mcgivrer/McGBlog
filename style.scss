@@ -261,14 +261,22 @@ nav {
     font-size: 0.9em;
     font-style: italic;
   }
+  img {
+    border-radius:4px;
+    box-shadow: 4px 4px 8px #999;
+    padding:2px;
+  }
   img[alt=left]{
     float:left;
+    margin-right:2em;
   }
   img[alt=right]{
     float:right;
+    margin-left:2em;
   }
   img[alt=center]{
     text-align:center;
+    margin:2em 0.5em;
   }
   .comments {
     margin-top: 10px;
