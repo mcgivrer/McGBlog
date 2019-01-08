@@ -265,17 +265,19 @@ nav {
     border-radius:4px;
     box-shadow: 4px 4px 8px #999;
     padding:2px;
-		max-height:325px;
+    width:95%;
+    height:auto;
+    max-height:550px;
   }
-  img[alt=left]{
+  img[alt*=left]{
     float:left;
     margin-right:2em;
   }
-  img[alt=right]{
+  img[alt*=right]{
     float:right;
     margin-left:2em;
   }
-  img[alt=center]{
+  img[alt*=center]{
     display: block;
     margin: 0 auto;
   }
