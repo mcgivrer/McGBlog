@@ -265,6 +265,7 @@ nav {
     border-radius:4px;
     box-shadow: 4px 4px 8px #999;
     padding:2px;
+		max-height:325px;
   }
   img[alt=left]{
     float:left;
@@ -276,7 +277,6 @@ nav {
   }
   img[alt=center]{
     width:100%;
-	  height:auto;
     margin:2em 0.5em;
   }
   .comments {
