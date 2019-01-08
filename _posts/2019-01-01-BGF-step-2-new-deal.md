@@ -14,6 +14,8 @@ Yes, the book is a french language one's, because it is my first one. I hope I w
 
 <!--more-->
 
+----
+
 <div class="imgcontainer">
     <img alt="center" 
         src="https://lh3.googleusercontent.com/hy93r4z2dkj9lxeRRs98RJ9oJd3ZLMPymcKQ3tDTUwjWbXLHhSmiK33w81JPslarVzZ7vReHqoS-3w=s550" 

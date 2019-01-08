@@ -3,13 +3,12 @@ layout: default
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1>
-
   <header>
     <ul class="categories">{% for category in page.categories %}<li><a href="#">{{ category }}</a></li> {% endfor %}</ul>
-    <ul class="tags">{% for tag in page.tags %}<li><a href="#"">{{ tag }}</a></li> {% endfor %}</>
+    <ul class="tags">{% for tag in page.tags %}<li><a href="#"">{{ tag }}</a></li> {% endfor %}</></ul>
   </header>
-  <hr size="20px">
+ 
+  <hr size="2px">
 
   <div class="entry">
     {{ content }}
