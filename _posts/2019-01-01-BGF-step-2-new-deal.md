@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 ---
 # The Neaw Deal
 
-I've received the first draft of my first book I am working on for the last half and a year: "**Developper** mon premier **jeu de plateforme** avec **Java**" !
+![left](https://lh3.googleusercontent.com/kkn97hDr55-79ziO-jgEXRA5xfaWRQgJaCp4ZVy5EWkcTm1Fe-842gxqVnJp-2wfhGB6Av62Om7ivQ=s120 "Cover")I've received the first draft of my first book I am working on for the last half and a year: "**Developper** mon premier **jeu de plateforme** avec **Java**" !
 
 <!--more-->
 
@@ -33,6 +33,7 @@ The next step consists in performing a global review of the five first chapter, 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2MzkxMDI1LC03OTg0Mjk0MzYsLTE3Mj
-AwNzg5NTQsMTYwNzgyNjQxOCwxNjgzMzY1MzA5XX0=
+eyJoaXN0b3J5IjpbODMwOTA3NDk2LDM1NjM5MTAyNSwtNzk4ND
+I5NDM2LC0xNzIwMDc4OTU0LDE2MDc4MjY0MTgsMTY4MzM2NTMw
+OV19
 -->
