@@ -10,6 +10,8 @@ excerpt_separator: <!--more-->
 
 I've received the first draft of my first book I am working on for the last half and a year: "**Developper** mon premier **jeu de plateforme** avec **Java**" !
 
+<!--more-->
+
 Yes, the book is a french language one's, because it is my first one. I hope I will be able to write a second one later next year (2020) with more in depth things about game and their develoment.
 
 ![the front temporary cover design for the book Développer mon premier jeu de plateforme avec Java](https://lh3.googleusercontent.com/hy93r4z2dkj9lxeRRs98RJ9oJd3ZLMPymcKQ3tDTUwjWbXLHhSmiK33w81JPslarVzZ7vReHqoS-3w=s550 "Développer mon premier jeu de plateforme avec Java")
@@ -29,6 +31,6 @@ The next step consists in performing a global review of the five first chapter, 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTU4NTU0MywtNzk4NDI5NDM2LC0xNz
-IwMDc4OTU0LDE2MDc4MjY0MTgsMTY4MzM2NTMwOV19
+eyJoaXN0b3J5IjpbMzU2MzkxMDI1LC03OTg0Mjk0MzYsLTE3Mj
+AwNzg5NTQsMTYwNzgyNjQxOCwxNjgzMzY1MzA5XX0=
 -->
