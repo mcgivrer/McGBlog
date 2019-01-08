@@ -261,7 +261,15 @@ nav {
     font-size: 0.9em;
     font-style: italic;
   }
-
+  img[alt=left]{
+    float:left;
+  }
+  img[alt=right]{
+    float:right;
+  }
+  img[alt=center]{
+    text-align:center;
+  }
   .comments {
     margin-top: 10px;
   }
