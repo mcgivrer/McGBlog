@@ -14,7 +14,7 @@ excerpt_separator: <!--more-->
 
 Yes, the book is a french language one's, because it is my first one. I hope I will be able to write a second one later next year (2020) with more in depth things about game and their develoment.
 
-![the front temporary cover design for the book Développer mon premier jeu de plateforme avec Java](https://lh3.googleusercontent.com/hy93r4z2dkj9lxeRRs98RJ9oJd3ZLMPymcKQ3tDTUwjWbXLHhSmiK33w81JPslarVzZ7vReHqoS-3w=s550 "Développer mon premier jeu de plateforme avec Java")
+![center](https://lh3.googleusercontent.com/hy93r4z2dkj9lxeRRs98RJ9oJd3ZLMPymcKQ3tDTUwjWbXLHhSmiK33w81JPslarVzZ7vReHqoS-3w=s550 "Développer mon premier jeu de plateforme avec Java")
 
 *~~ My First Book ~~*
 
@@ -33,7 +33,7 @@ The next step consists in performing a global review of the five first chapter, 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwOTA3NDk2LDM1NjM5MTAyNSwtNzk4ND
-I5NDM2LC0xNzIwMDc4OTU0LDE2MDc4MjY0MTgsMTY4MzM2NTMw
-OV19
+eyJoaXN0b3J5IjpbNTExNzYwNjUsODMwOTA3NDk2LDM1NjM5MT
+AyNSwtNzk4NDI5NDM2LC0xNzIwMDc4OTU0LDE2MDc4MjY0MTgs
+MTY4MzM2NTMwOV19
 -->
