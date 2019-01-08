@@ -6,13 +6,13 @@ categories: [java, gamedev]
 tags: [book,game,dev,edition]
 excerpt_separator: <!--more-->
 ---
-# The Neaw Deal
-
 ![right](https://lh3.googleusercontent.com/kkn97hDr55-79ziO-jgEXRA5xfaWRQgJaCp4ZVy5EWkcTm1Fe-842gxqVnJp-2wfhGB6Av62Om7ivQ=s120 "Cover")I've received the first draft of my first book I am working on for the last half and a year: "**Developper** mon premier **jeu de plateforme** avec **Java**" !
 
 Yes, the book is a french language one's, because it is my first one. I hope I will be able to write a second one later next year (2020) with more in depth things about game and their development.
 
 <!--more-->
+
+# The Neaw Deal
 
 ----
 
