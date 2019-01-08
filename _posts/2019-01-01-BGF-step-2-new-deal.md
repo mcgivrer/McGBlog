@@ -17,7 +17,7 @@ Yes, the book is a french language one's, because it is my first one. I hope I w
 
 > The current cover image will change because of discussion with originator of used pixel graphics to illustrate my own "in-cours" game.
 
-It's a beautiful book (Eh, i've created it :) with the 5 first chapters, corresponding to the first 5 cours about **how to create a platform game with Java** (sic) on the Google Class Room service I am currently creating.
+It's a beautiful book (Eh, i've created it :) with the 5 first chapters, corresponding to the 5 first courses about **how to create a platform game with Java** (sic) on the [Google Class Room GDJ100 course](https://classroom.google.com/c/NzI2ODQ3NjU2MFpa)  I am currently creating.
 
 The next step consists in performing a global review of the five first chapter, and continue to write other chapters with corresponding github repositories.
 14 chapters are in the final target and would be written before end of 2019 (I hope :)
@@ -26,5 +26,5 @@ The next step consists in performing a global review of the five first chapter, 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMjgxODY3NywxNjgzMzY1MzA5XX0=
+eyJoaXN0b3J5IjpbLTc3Njc2ODU2OCwxNjgzMzY1MzA5XX0=
 -->
